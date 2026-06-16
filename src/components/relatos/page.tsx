@@ -14,8 +14,8 @@ export default function Relatos() {
             width={300}
             height={300}
           />
-          <h3>André Matos</h3>
-          <p>Meu cachorro sempre fica feliz quando chega ao pet shop. O atendimento é excelente e o cuidado com os animais faz toda a diferença.</p>
+          <h3><i className="fa-solid fa-quote-left"></i> André Matos</h3>
+          <p>Meu cachorro sempre fica feliz ao chegar no pet shop. O atendimento é excelente e o cuidado com os animais é diferenciado.</p>
         </div>
 
         <div className="relato">
@@ -25,7 +25,7 @@ export default function Relatos() {
             width={300}
             height={300}
           />
-          <h3>Ana Paula</h3>
+          <h3><i className="fa-solid fa-quote-left"></i> Ana Paula</h3>
           <p>Levei minha gata para banho e tosa e ela voltou linda e super tranquila. Recomendo de olhos fechados!</p>
         </div>
 
@@ -36,7 +36,7 @@ export default function Relatos() {
             width={300}
             height={300}
           />
-          <h3>Juliana Santos</h3>
+          <h3><i className="fa-solid fa-quote-left"></i> Juliana Santos</h3>
           <p>Equipe atenciosa, ambiente limpo e produtos de qualidade. Virou nosso pet shop de confiança.</p>
         </div>
 

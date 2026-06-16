@@ -1,0 +1,10 @@
+section.planos {
+  background-color: #e6e6e6;
+  padding: 1.5rem 0;
+}
+
+section.planos h2 {
+  text-align: center;
+  font-size: clamp(1rem, 6vw, 2.2rem);
+  margin-bottom: 0.8rem;
+}
