@@ -1,0 +1,30 @@
+footer {
+  background-color: #33211c;
+  padding: 1rem 0;
+}
+
+footer h2 {
+  color: #fff;
+  text-align: center;
+  font-size: clamp(1rem, 6vw, 2.2rem);
+  margin-bottom: 1.2rem;
+}
+
+div.contatos {
+  width: 98%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+div.contatos a i {
+  color: #fff;
+  transition: all 0.3s;
+}
+
+div.contatos a i:hover {
+  color: #f5eec3;
+  transition: all 0.3s;
+  transform: scale(1.08);
+}

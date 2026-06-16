@@ -1,12 +1,12 @@
 section.curiosidades {
   background-color: #e6e6e6;
-  padding: 1.5rem 0;
+  padding: 2rem 0;
 }
 
 section.curiosidades h2 {
   text-align: center;
   font-size: clamp(1rem, 6vw, 2.2rem);
-  margin-bottom: 0.8rem;
+  margin-bottom: 1.2rem;
 }
 
 div.curiosidades {
