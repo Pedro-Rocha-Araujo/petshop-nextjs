@@ -3,7 +3,7 @@ header {
   color: #f5eec3;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  padding: 1rem 0;
+  padding: 1.5rem 0;
 }
 
 header i.fa-paw {
@@ -32,7 +32,7 @@ header div.image-header {
 header img {
   width: 100%;
   height: auto;
-  max-width: 580px;
+  max-width: 620px;
 }
 
 header button {
