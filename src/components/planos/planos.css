@@ -5,7 +5,7 @@ section.planos {
 
 section.planos h2 {
   text-align: center;
-  font-size: clamp(1rem, 6vw, 2.2rem);
+  font-size: clamp(1rem, 7vw, 2.2rem);
   margin-bottom: 1.2rem;
 }
 
@@ -54,6 +54,11 @@ div.plano button {
   border-radius: 1rem;
   position: absolute;
   bottom: 0.8rem;
+  transition: all 0.3s;
+}
+
+div.plano button:hover {
+  background-color: #47312b;
 }
 
 @media screen and (max-width: 720px) {

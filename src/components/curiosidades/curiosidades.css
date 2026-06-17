@@ -5,7 +5,7 @@ section.curiosidades {
 
 section.curiosidades h2 {
   text-align: center;
-  font-size: clamp(1rem, 6vw, 2.2rem);
+  font-size: clamp(1rem, 7vw, 2.2rem);
   margin-bottom: 1.2rem;
 }
 
