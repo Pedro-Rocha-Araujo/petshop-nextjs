@@ -50,6 +50,20 @@ header button:hover {
   color: #33211c;
 }
 
+header button:hover a {
+  color: #33211c;
+}
+
+header a {
+  text-decoration: none;
+  color: #f5eec3;
+  transition: all 0.3s;
+}
+
+header a:hover {
+  color: #33211c;
+}
+
 @media screen and (max-width: 720px) {
   header {
     min-height: 90dvh;

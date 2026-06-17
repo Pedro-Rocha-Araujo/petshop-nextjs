@@ -8,7 +8,7 @@ export default function Header() {
       <div className="main-header">
         <i className="fa-solid fa-paw"></i>
         <h1>Petshop</h1>
-        <button>Entrar em contato</button>
+        <button><a target="_blank" href="https://wa.me/557999999999?text=Olá! vim pelo site, gostaria de agendar um banho e tosa para meu gato.">Entrar em contato</a></button>
       </div>
 
       <div className="image-header">
