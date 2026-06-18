@@ -78,7 +78,23 @@ div.plano button a {
     align-items: center;
   }
 
-  div.plano button {
-    margin-bottom: 0.2rem;
+  div.plano p {
+    margin-bottom: 4rem;
+  }
+
+  div.plano {
+    max-width: 340px;
+  }
+
+  section.planos h2 {
+    font-size: clamp(1rem, 12vw, 1.8rem);
+  }
+
+  div.plano h3 {
+    font-size: clamp(1rem, 10vw, 1.8rem);
+  }
+
+  div.plano p {
+    font-size: clamp(0.9rem, 6vw, 1.2rem);
   }
 }

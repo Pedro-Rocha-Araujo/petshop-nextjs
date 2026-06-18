@@ -58,4 +58,26 @@ div.relato p {
     flex-direction: column;
     align-items: center;
   }
+
+  div.relato {
+    max-width: 340px;
+    padding: 2rem 1rem;
+  }
+
+  div.relato img {
+    width: 80%;
+    max-width: 180px;
+  }
+
+  section.relatos h2 {
+    font-size: clamp(1rem, 12vw, 1.8rem);
+  }
+
+  div.relato h3 {
+    font-size: clamp(1rem, 10vw, 1.8rem);
+  }
+
+  div.relato p {
+    font-size: clamp(0.9rem, 6vw, 1.3rem);
+  }
 }

@@ -41,5 +41,22 @@ div.curiosidade p {
 @media screen and (max-width: 720px) {
   div.curiosidades {
     flex-direction: column;
+    align-items: center;
+  }
+
+  section.curiosidades h2 {
+    font-size: clamp(1rem, 12vw, 1.8rem);
+  }
+
+  div.curiosidade {
+    max-width: 580px;
+  }
+
+  div.curiosidade h3 {
+    font-size: clamp(1rem, 10vw, 1.8rem);
+  }
+
+  div.curiosidade p {
+    font-size: clamp(0.9rem, 6vw, 1.3rem);
   }
 }
