@@ -37,9 +37,10 @@ header img {
 
 header button {
   background-color: transparent;
+  padding: 1rem 0;
+  overflow: hidden;
   color: #f5eec3;
   border: 1px solid #f5eec3;
-  padding: 1rem 2.2rem;
   border-radius: 1.5rem;
   font-size: 1.1rem;
   transition: all 0.3s;
@@ -55,6 +56,7 @@ header button:hover a {
 }
 
 header a {
+  padding: 1rem 2.5rem;
   text-decoration: none;
   color: #f5eec3;
   transition: all 0.3s;
