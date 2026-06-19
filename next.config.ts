@@ -6,6 +6,9 @@ const nextConfig: NextConfig = {
   reactCompiler: true,
   basePath: `/petshop-nextjs`,
   assetPrefix: `/petshop-nextjs`,
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
