@@ -4,7 +4,8 @@ O presente projeto trata-se de uma landing page feita para um petshop fictício 
 ## Características do desenvolvimento </>
 * Desenvolvido em Nextjs
 * Utiliza de componentização
-* Pastas organizadas e 
+* Pastas organizadas e organização de código
+* Informações de SEO para melhor rankeamento do site
 
 ## Frontend do Projeto 📱 💻
 * Desenvolvido com a abordagem Mobile-first
